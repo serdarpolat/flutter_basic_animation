@@ -1,5 +1,5 @@
-1. adım - Zaman içinde değiştirilmesi gereken bir widget'a bağlı bir değer belirleyin.
-2. adım - Bir animasyon denetleyicisi (AnimationController) oluşturun.
-3. adım - Animasyon denetleyicisine (AnimationController), hangi değerler arasında animasyon yapacağını anlatın.
-4. adım - bir animasyon oluşturucu (AnimationBuilder) oluşturun, buna animasyon denetleyicisine (AnimationController) iletin.
-5. adım - Animasyon denetleyicisi (AnimationController) değiştiği zaman çalıştırılan oluşturucu yöntemini tanımlar.
+1. adÄ±m - Zaman iÃ§inde deÄŸiÅŸtirilmesi gereken bir widget'a baÄŸlÄ± bir deÄŸer belirleyin.
+2. adÄ±m - Bir animasyon denetleyicisi (AnimationController) oluÅŸturun.
+3. adÄ±m - Animasyon denetleyicisine (AnimationController), hangi deÄŸerler arasÄ±nda animasyon yapacaÄŸÄ±nÄ± anlatÄ±n.
+4. adÄ±m - Bir animasyon oluÅŸturucu (AnimationBuilder) oluÅŸturun, buna animasyon denetleyicisine (AnimationController) iletin.
+5. adÄ±m - Animasyon denetleyicisi (AnimationController) deÄŸiÅŸtiÄŸi zaman Ã§alÄ±ÅŸtÄ±rÄ±lan oluÅŸturucu yÃ¶ntemini tanÄ±mlar.
