@@ -1,0 +1,5 @@
+1. adým - Zaman içinde deðiþtirilmesi gereken bir widget'a baðlý bir deðer belirleyin.
+2. adým - Bir animasyon denetleyicisi (AnimationController) oluþturun.
+3. adým - Animasyon denetleyicisine (AnimationController), hangi deðerler arasýnda animasyon yapacaðýný anlatýn.
+4. adým - bir animasyon oluþturucu (AnimationBuilder) oluþturun, buna animasyon denetleyicisine (AnimationController) iletin.
+5. adým - Animasyon denetleyicisi (AnimationController) deðiþtiði zaman çalýþtýrýlan oluþturucu yöntemini tanýmlar.
